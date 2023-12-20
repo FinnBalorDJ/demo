@@ -1,4 +1,4 @@
 # demo
 this is my fist git repository.
 <br>
-Author - Shivam Kumar
+Author - Shivam Kumar(FinnBalor)
